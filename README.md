@@ -1,4 +1,4 @@
-HARIHARAN S – DEVELOPER PORTFOLIO
+HARIHARAN S – PORTFOLIO
 
 B.Tech – Computer Science and Business Systems (Honors in Data Science) 
 Chennai, India | hariofficial2803@gmail.com  
