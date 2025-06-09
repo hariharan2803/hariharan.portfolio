@@ -8,8 +8,10 @@ LinkedIn: https://www.linkedin.com/in/hariharan-s-5003ab30a
 
 ABOUT ME
 
-I am a Computer Science and Business Systems Engineering graduate with Honors in Data Science.  
-I am passionate about software development, data analytics, and building solutions that combine functionality with meaningful user impact.  
+I am a Computer Science and Business Systems Engineering graduate with Honors in Data Science. 
+
+I am passionate about software development, data analytics, and building solutions that combine functionality with meaningful user impact. 
+
 I bring experience in web technologies, frameworks, and data tools, and am continuously learning and improving through hands-on projects and collaboration.
 
 ---
